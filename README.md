@@ -35,9 +35,12 @@
 * 5 SP
 * 2 RP
 * 6 Bench
+  - 1 Bench hitter is a myth
 
+
+//Example of Checkbox
 1. [X] Rule Change Accepted
 2. [X] Rule Change 2 Accepted
 3. [ ] Rule Change 3 Denied
- - Change is to include 50 prospects on each team
+   - Nested List requires dash to be under first text
 
