@@ -52,7 +52,7 @@
    
    
    
-   First Header | Second Header
+Stealing is  | How i got this
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
