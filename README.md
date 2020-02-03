@@ -20,6 +20,7 @@
   * NIT
   
 //Example of Links
+
 [The Google](https://www.google.com/)
 
     
@@ -48,4 +49,11 @@
 2. [X] Rule Change Accepted
 3. [ ] Rule Change Denied
    - Nested List requires dash to be under first text
+   
+   
+   
+   First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
