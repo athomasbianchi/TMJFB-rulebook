@@ -54,6 +54,7 @@
    
 Stealing is  | How i got this
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Something important | That requires a nice table
+Seems like a logical place | to put it all
+Lets see if this is useful or not | i think it will be
 
