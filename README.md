@@ -52,11 +52,13 @@
    
    
 //Example of Tables
+
 Stealing is  | How i got this | And Stealing is wrong
 ------------ | -------------  | --------------
 Something important | That requires a nice table
 Seems like a logical place | to put it all
 Lets see if this is useful or not | i think it will be
+
 
 
 //Example of Images
