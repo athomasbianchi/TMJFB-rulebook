@@ -37,6 +37,11 @@
 * 6 Bench
   - 1 Bench hitter is a myth
 
+//Example of colors
+```diff
+- text in red
++ text in green
+```
 
 //Example of Checkbox
 1. [X] Rule Change Accepted
