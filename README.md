@@ -45,7 +45,7 @@
 
 //Example of Checkbox
 1. [X] Rule Change Accepted
-2. [X] Rule Change 2 Accepted
-3. [ ] Rule Change 3 Denied
+2. [X] Rule Change Accepted
+3. [ ] Rule Change Denied
    - Nested List requires dash to be under first text
 
