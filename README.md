@@ -1,6 +1,4 @@
 # TMJFB Rulebook
-
-## Sections to write
 * League Makeup
   * Members
   * Payout
