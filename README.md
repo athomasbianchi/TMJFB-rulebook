@@ -1,7 +1,7 @@
-TMJFB Rulebook
+# TMJFB Rulebook
 =======
 
-Sections to write
+## Sections to write
 * League Makeup
   * Members
   * Payout
@@ -27,7 +27,7 @@ Sections to write
 Testing this section out because i want to test a new commit to the master....aka Tom is the master.
     
   
-Positions
+### Positions
 - C
 - 1B
 - 2B
