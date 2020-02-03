@@ -31,10 +31,15 @@ Positions
 - C
 - 1B
 - 2B
-*3B
-*SS
-*3 OF
-*Util
-*5 SP
-*2 RP
-*6 Bench
+* 3B
+* SS
+* 3 OF
+* Util
+* 5 SP
+* 2 RP
+* 6 Bench
+
+- [ ] Rule Change Accepted
+- [ ] Rule Change 2 Accepted
+- [ ] Rule Change 3 Denied
+
