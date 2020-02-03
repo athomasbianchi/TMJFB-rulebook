@@ -51,7 +51,7 @@
    - Nested List requires dash to be under first text
    
    
-   
+//Example of Tables
 Stealing is  | How i got this | And Stealing is wrong
 ------------ | -------------  | --------------
 Something important | That requires a nice table
