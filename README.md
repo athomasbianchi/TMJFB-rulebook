@@ -63,8 +63,5 @@ Lets see if this is useful or not | i think it will be
 
 ![Testing Images](https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg){:height="25%" width="25%"}
 
-
-![test image size](https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg){:class="img-responsive"}
-![test image size](/https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg){:height="50%" width="50%"}
-![test image size](https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg){:height="700px" width="400px"}
+<img src="https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg" width="100" height="100">
 
