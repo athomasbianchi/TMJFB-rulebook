@@ -1,5 +1,4 @@
 # TMJFB Rulebook
-=======
 
 ## Sections to write
 * League Makeup
