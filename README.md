@@ -19,11 +19,11 @@
   * Playoff Rosters
   * NIT
   
-
+//Example of Links
 [The Google](https://www.google.com/)
-Testing this section out because i want to test a new commit to the master....aka Tom is the master.
+
     
-  
+//Example of Ordered List  
 ### Positions
 - C
 - 1B
@@ -36,7 +36,8 @@ Testing this section out because i want to test a new commit to the master....ak
 * 2 RP
 * 6 Bench
 
-- [X] Rule Change Accepted
-- [X] Rule Change 2 Accepted
-- [ ] Rule Change 3 Denied
+1. [X] Rule Change Accepted
+2. [X] Rule Change 2 Accepted
+3. [ ] Rule Change 3 Denied
+ - Change is to include 50 prospects on each team
 
