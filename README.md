@@ -61,7 +61,5 @@ Lets see if this is useful or not | i think it will be
 
 //Example of Images
 
-![Testing Images](https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg){:height="25%" width="25%"}
-
-<img src="https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg" width="100" height="100">
+<img src="https://mediad.publicbroadcasting.net/p/kcur/files/styles/x_large/public/201310/raider.jpg" width="200" height="200">
 
