@@ -39,7 +39,7 @@ Positions
 * 2 RP
 * 6 Bench
 
-- [ ] Rule Change Accepted
-- [ ] Rule Change 2 Accepted
+- [X] Rule Change Accepted
+- [X] Rule Change 2 Accepted
 - [ ] Rule Change 3 Denied
 
