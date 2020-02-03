@@ -28,9 +28,9 @@ Testing this section out because i want to test a new commit to the master....ak
     
   
 Positions
-*C
-*1B
-*2B
+- C
+- 1B
+- 2B
 *3B
 *SS
 *3 OF
